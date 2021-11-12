@@ -1,7 +1,7 @@
-Livro de receitas
+Livro de receitas :woman_cook:
 
-Olá! Este é o meur primeiro git
+Olá! Bem vinde ao meu livro de receitas :book:
 
 Index:
 
-1. Strogonoff de Frango
+- Strogonoff de Frango
