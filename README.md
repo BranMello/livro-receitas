@@ -1,7 +1,8 @@
-Livro de receitas :woman_cook:
+# Livro de receitas :woman_cook:
 
-Olá! Bem vinde ao meu livro de receitas :book:
+*Olá! Bem vinde ao meu livro de receitas* :book:
 
-Index:
+#### Index:
 
 - Strogonoff de Frango
+
